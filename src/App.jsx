@@ -12,13 +12,13 @@ function App() {
         <h1 className="header__title">Site Name</h1>
         <nav className="navigation">
           <a className="navigation__link" href="#about">
-            About
+            Acerca
           </a>
           <a className="navigation__link" href="#services">
-            Services
+            Servicios
           </a>
           <a className="navigation__link" href="#contact">
-            Contact
+            Contacto
           </a>
         </nav>
       </header>
