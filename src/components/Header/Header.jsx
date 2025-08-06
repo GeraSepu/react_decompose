@@ -4,13 +4,13 @@ export default function Header() {
       <h1 className="header__title">Site Name</h1>
       <nav className="navigation">
         <a className="navigation__link" href="#about">
-          Acerca
+          About
         </a>
         <a className="navigation__link" href="#services">
-          Servicios
+          Services
         </a>
         <a className="navigation__link" href="#contact">
-          Contacto
+          Contact
         </a>
       </nav>
     </header>
